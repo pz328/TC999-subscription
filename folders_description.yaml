@@ -23,9 +23,11 @@ Roaming:
   RustDesk: "RustDesk 配置文件"
   VMware: "VMware 配置文件"
   Motrix: "Motrix 配置文件"
+  Tencent: "腾讯软件 配置文件"
   Typeeasy: "金山打字通安装位置"
   TypeEasyData: "金山打字通用户数据"
   VMWare: "VMWare 配置文件"
+  vxe-drive: "VGN键鼠 配置文件"
   zen: "Zen 浏览器网络配置"
 Local:
   # 示例：文件夹名: "描述"
